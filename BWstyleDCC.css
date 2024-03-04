@@ -80,6 +80,7 @@
   #topNav3 div{
     text-align: center;
     margin: 0 10px;
+    flex-grow: 1; 
   }
   
 }
