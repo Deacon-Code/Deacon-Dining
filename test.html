@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // Sample JavaScript array
+        var data = [
+            "Apple",
+            "Banana",
+            "Orange",
+            "Grapes",
+            "Pineapple",
+            "Strawberry",
+            "Watermelon"
+        ];
+
+        // Function to perform search
+        function search() {
+            var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+            var results = document.getElementById("results");
+            results.innerHTML = '';
+
+            data.forEach(function (item) {
+                if (item.toLowerCase().includes(searchTerm)) {
+                    var li = document.createElement("li");
+                    li.textContent = item;
+                    results.appendChild(li);
+                }
+            });
+        }
+
+        // Event listener for input changes
+        document.getElementById("searchInput").addEventListener("input", search);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

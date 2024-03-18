@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Bar</title>
+    <style>
+        #searchInput {
+            padding: 10px;
+            width: 300px;
+            margin-bottom: 10px;
+        }
+
+        #results {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #results li {
+            padding: 5px;
+            border-bottom: 1px solid #ccc;
+        }
+    </style>
+</head>
+
+<body>
+
+    <input type="text" id="searchInput" placeholder="Search...">
+    <ul id="results"></ul>
+
+    <script>
+        // Function to fetch data from text file
+        function fetchData() {
+            fetch('all_gather.txt')
+                .then(response => response.text())
+                .then(data => {
+                    processTextData(data);
+                })
+                .catch(error => console.error('Error fetching data:', error));
+        }
+
+        // Function to process text data
+        function processTextData(data) {
+            var lines = data.split('\n');
+            var results = document.getElementById("results");
+            results.innerHTML = '';
+
+            // Function to perform search
+            function search() {
+                var searchTerm = document.getElementById("searchInput").value.toLowerCase();
+                results.innerHTML = '';
+
+                lines.forEach(function (line) {
+                    var values = line.split(', ');
+                    var item = values[2]; // Second value in each line
+                    if (item.toLowerCase().includes(searchTerm)) {
+                        var li = document.createElement("li");
+                        li.textContent = line; // Display document name and line
+                        results.appendChild(li);
+                    }
+                });
+            }
+
+            // Event listener for input changes
+            document.getElementById("searchInput").addEventListener("input", search);
+        }
+
+        // Fetch data when the page loads
+        fetchData();
+    </script>
+
+</body>
+
+</html>

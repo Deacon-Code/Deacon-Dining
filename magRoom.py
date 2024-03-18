@@ -14,6 +14,6 @@ def get_text_from_pdf(pdf_url):
             text += page.extract_text()
     return text
 
-pdf_url = "https://dining.wfu.edu/wp-content/uploads/2017/07/mag-room-menu.pdf"
+pdf_url = "https://dining.wfu.edu/wp-content/uploads/2024/03/mag-room-mar4-7.pdf"
 extracted_text = get_text_from_pdf(pdf_url)
 print(extracted_text)

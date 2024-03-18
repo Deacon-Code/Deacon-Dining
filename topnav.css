@@ -1,0 +1,15 @@
+#searchInput {
+    padding: 10px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+#results {
+    list-style-type: none;
+    padding: 0;
+}
+
+#results li {
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
