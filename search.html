@@ -53,11 +53,23 @@
 
                 lines.forEach(function (line) {
                     var values = line.split(', ');
-                    var item = values[2]; // Second value in each line
+                    var item = values[3];
                     if (item.toLowerCase().includes(searchTerm)) {
                         var li = document.createElement("li");
-                        li.textContent = line; // Display document name and line
+                                li.innerHTML = `
+                            <h2>${values[3]}</h2>
+                            <p>${values[2]}@${values[1]}</p>
+                            <p>${values[0]} for ${values[4]}</p>
+                        `;
                         results.appendChild(li);
+                        // console.log(li);
+                        // li.classList.add("result-item");
+                        // results.append(li);
+
+
+                        // li.textContent = line; // Display document name and line
+                        // li.classList.add("result-item");
+                        // results.appendChild(li);
                     }
                 });
             }
