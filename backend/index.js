@@ -6,14 +6,14 @@ const RegisterModel = require('./models/Register')
 const app = express()
 app.use(cors(
     {
-        origin: ["https://wake-purity-test-client.vercel.app"],
+        origin: ["https://deacon-dining-client.vercel.app"],
         methods: ["POST", "GET"],
         credentials: true
     }
 ));
 app.use(express.json())
 
-mongoose.connect('mongodb+srv://johnbillos619:9CEfSt9YuMQxjO40@cluster0.dkq5djr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
+mongoose.connect('mongodb+srv://ra:anniebannanniefeefifophannie@menu-data-cluster.cjjaxoh.mongodb.net/?retryWrites=true&w=majority&appName=menu-data-cluster');
 
 
 app.get("/", (req, res) => {
