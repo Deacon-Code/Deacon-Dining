@@ -1,0 +1,4872 @@
+Server is Running
+Python script child process exited with code 0
+Item added: {
+  location: 'Pit',
+  item: 'Seasoned Scrambled Eggs',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd4a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Hash Brown Potato',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd4c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Buttermilk Biscuit',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd52',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sausage Gravy',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd54',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Hard-Boiled Eggs',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd56',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Buttermilk Pancake',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd58',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'French Toast',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd5a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Whipped Topping',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd5c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Whipped Butter',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd5e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Blueberries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd60',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Blackberries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd64',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Raspberries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd62',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Chips',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd68',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pancake & Waffle Syrup',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd66',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pork Sausage Patty',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd4e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Turkey Sausage Link',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd50',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Crumbled Sausage',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd6e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Crumbled Chorizo Sausage',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd70',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Ham',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd72',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Real Bacon Pieces',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd74',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Cheddar Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd76',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Steamed Diced Red Potatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd78',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Broccoli Florets',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd7c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Feta Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd7a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Baby Spinach',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd7e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mushrooms',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd80',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Mixed Bell Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd82',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fire-Roasted Salsa',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd84',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Tomatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd86',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pico de Gallo',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd88',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Yellow Onion',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd8a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Black Olives',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd8c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fresh Cracked Scrambled Egg',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd6a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Homestyle Grits',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Freshly Made Hot Bowl Of...',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd90',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Old Fashioned Oatmeal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Freshly Made Hot Bowl Of...',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd92',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Plain Nonfat Greek Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd94',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Nonfat Vanilla Greek Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd96',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cage Free Egg Whites',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd6c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Overnight Chia Oats',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd9a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Strawberries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd9c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Red & Green Grapes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bda0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pineapple',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd9e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Seedless Raisins',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bda4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Red Grapefruit',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bda2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Flax Seed',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdaa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Housemade Cinnamon-Honey Granola',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bda6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honey',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bda8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chia Seeds',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdac',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Dried Cranberries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdae',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Mango',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdb0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mixed Berry Mojo Smoothie',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdb2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Spring Break Smoothie',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdb4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Strawberry Banana Smoothie',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdb6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Peachy Keen Smoothie',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdb8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Endless Summer Smoothie',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdba',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Orange Cream Dream Smoothie',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdbc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Apples',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdbe',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Oranges',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdc0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Bananas',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdc2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: '2% Milk',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdc4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Skim Milk',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdc6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Milk',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdc8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Brewed Coffee',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdca',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Madagascar Vanilla Coffee Creamer',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdcc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Salted Caramel Coffee Creamer',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdce',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cinnamon Churro Coffee Creamer',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdd0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Jalapeno Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd8e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Uproot Soymilk',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdd6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Uproot Chocolate Peamilk',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdd4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Tractor Beverage Strawberry Dragonfruit',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdd8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Nonfat Strawberry Greek Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bd98',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: "Tractor Beverage Farmer's Punch",
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdde',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Tractor Beverage Unsweet Tea',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bddc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Rice Chex Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bde2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Tractor Beverage Mandarin Cardamom',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bde0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cheerios Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bde4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Lucky Charms Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bde6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Froot Loops Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bde8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Apple Jacks Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdea',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cinnamon Toast Crunch Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdec',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Rice Krispies',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdee',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cocoa Puffs',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdf0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Raisin Bran Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdf2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vanilla Soft Serve Ice Cream',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdf4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Soft Serve Ice Cream',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdf6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vanilla Frozen Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdf8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Frozen Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdfa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: "Chef's Special",
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdfe',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Golden Malted Waffle',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdfc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Grilled Lemon Dijon Chicken Breast',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be00',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Garlic Potatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be02',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Zucchini & Yellow Squash Saute',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be04',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pickled Cucumber & Carrot Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood - Creation Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be08',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Brussels Sprouts',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be06',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chimichurri Potatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood - Creation Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be0a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chopped Kale',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood - Salad Bar',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be0c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Sweet Potatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood - Salad Bar',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be10',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Herb Roasted Turkey',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood - Salad Bar',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be0e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Dijon Vinaigrette',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood - Salad Bar',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be12',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pumpkin Seeds',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be14',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Red Cabbage',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be16',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Flour Tortilla',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be18',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vegan Chorizo',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be1a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Just® Scrambled Eggs',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be1c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vegan Avocado Mayonnaise',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be1e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vegan Shredded Mozzarella',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be20',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Apples & Cinnamon',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be22',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cinnamon-Sugar',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be24',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Signature Burger',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be26',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Grilled Seasoned Chicken Breast',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be28',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Uproot Oatmilk',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdd2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sauteed Mushrooms & Onions',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be2c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Beyond Burger Patty',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be2e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Turkey Burger Patty',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be30',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Gardenburger Black Bean Patty',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be32',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'American Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be34',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Tractor Beverage Mango',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bdda',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Leaf Lettuce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be3a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Pepperjack Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be38',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Tomatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be3c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Dill Pickle Slices',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be3e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Red Onions',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be40',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chipotle Mayonnaise',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be42',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honey Mustard Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be46',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'BBQ Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be44',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Ranch Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be48',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Salami',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be4a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Roast Beef',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be4c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Virginia Ham',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be4e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honey-Mustard Potato Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Deli Specials',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be54',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Turkey Breast',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be50',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mediterranean Quinoa Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Deli Specials',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be52',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chicken Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Deli Specials',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be56',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Provolone Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be58',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shrimp Ceviche',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be60',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Greek Orzo Pasta',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be5e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Deli Pepperoni',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be5a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cantaloupe',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be5c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Field Greens',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be62',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honeydew Melon',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be66',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Romaine Lettuce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be64',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chopped Iceberg Lettuce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be68',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Gluten Free Penne Pasta',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be6a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Southwest Okra and Corn',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6be6e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Signature Chips',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6be70',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Garlic Roasted Broccoli',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6be76',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Caesar Dressing',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6be74',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Goldfish (R) Crackers',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6be72',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Diced Chicken',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6be78',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Diced Beets',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6be7a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cinnamon Churro Coffee Creamer',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6be6c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Avocado',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be7c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Hummus',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be7e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Basil Pesto',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be80',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mayonnaise',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be82',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Signature Chips',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be84',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Bell Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be86',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pepperoni',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be98',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Banana Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be8c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Marinara Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be9a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Seasoned Cauliflower Pizza Crust',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Flatbread Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be9c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fresh Cut Fries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be2a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cheddar Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be88',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Whole Grain Penne Pasta',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be92',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cavatappi',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be90',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Mozzarella Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Flatbread Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be96',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Cucumber',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be8a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Ruby Wild Grain Blend',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be8e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chicken Fajita Pizza',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Hearthstone Freshly Made Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bea2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pepperoni Pizza',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Hearthstone Freshly Made Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be9e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cheese Pizza',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Hearthstone Freshly Made Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bea0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Jalapeno Hawaiian Pizza',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Hearthstone Freshly Made Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bea4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Beets',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bea6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Yellow Bell Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bea8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pickled Carrot & Daikon',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beaa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Black Bean & Corn Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beac',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Grape Tomatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beae',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Green Peas',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beb0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Edamame',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beb2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Swiss Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be36',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cottage Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beb6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chopped Hard-Cooked Egg',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beb8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fresh Mozzarella',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beba',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Tuna',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bebe',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Fried Tofu',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bebc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Grilled Chicken',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bec0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Creamy Herbed Vinaigrette Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bec2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honey Berry Vinaigrette',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bec4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Caesar Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beca',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Blue Cheese Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bec6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Balsamic Vinaigrette',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Housemade Dressings',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bec8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shrimp Scampi',
+  date: '2024-03-30T00:00:00.000Z',
+  station: "Today's Pasta Specials",
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6be94',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sunflower Seeds',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6becc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Goldfish (R) Crackers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bed0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cauliflower Florets',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bed4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'French Fried Onions',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bed2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Carrots',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bed6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Parmesan Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bedc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sun-Dried Tomatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bede',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Grape Tomatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bed8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Breadsticks',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beda',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Artichoke Hearts',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bee0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Red Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bee2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sweet Corn',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bee4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mussels',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bee6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Tofu',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bee8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Minced Garlic',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beec',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Seasoned Chicken',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beea',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Butter',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beee',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Creamy Mushroom Marsala Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bef0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Homemade Alfredo Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bef2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cumin Roasted Cauliflower',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bef4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Confetti Brown Rice',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bef6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chili con Carne',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bef8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Glazed Carrots',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6befa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sweet Thai Chili Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6befc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mango-Habanero Hot Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6befe',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cream of Tomato Soup',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Freshly Made Hot Bowl Of...',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf00',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Turkey Sausage Patty',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf02',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Grilled Seasoned Chicken Breast',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf04',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Chicken Caesar Wrap',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf06',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Carolina Brunswick Stew',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Soup',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf08',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Jalapeno Peppers',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf0a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Real Bacon Pieces',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf0c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Froot Loops Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf0e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Madagascar Vanilla Coffee Creamer',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf10',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Beyond Burger Patty',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf12',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Apple Jacks Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf14',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Grape Tomatoes',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6bf16',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Italian Vinaigrette',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6bf18',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Lucky Charms Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6bf1a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chicken & Roasted Corn Chowder',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Freshly Made Hot Bowl Of...',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf1c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Plant Based Tuna Poke',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf22',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chicken Wings',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf1e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chile-Roasted Corn',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf20',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Cucumber',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf26',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sushi Rice',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf24',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Watermelon Radish',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf28',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Ginger Teriyaki Sauce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf2a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Avocado',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf2c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vegan Cilantro Lime Crema',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf2e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fire-Roasted Salsa',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf34',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Green Peas',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf32',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Leaf Lettuce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf30',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Red Onions',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf36',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Linguine',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf38',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cottage Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6bf3a',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'American Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf3c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Garbanzo Beans',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6beb4',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Pecan Pieces',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf42',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: "Chef's Special",
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf40',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Blueberries',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf44',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Blueberry Topping',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf46',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Whipped Topping',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf48',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chicken Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Deli Specials',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf62',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Lucky Charms Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf5c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: "Tractor Beverage Farmer's Punch",
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf5a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Caesar Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: "Today's Pasta Specials",
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf4c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Linguine',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf4e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sauteed Button Mushrooms',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf60',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Raspberries',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf54',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Flatbread',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Create Your Own Flatbread Pizza',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf4a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chicken & Roasted Corn Chowder',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Freshly Made Hot Bowl Of...',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf64',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Crumbled Chorizo Sausage',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf58',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Blueberries',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf52',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fresh Cracked Scrambled Egg',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf56',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Carolina Coleslaw',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood - Creation Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d11980740940ff6bf5e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Baby Spinach',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf50',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Seasoned Croutons',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bece',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Tractor Beverage Mandarin Cardamom',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6bf68',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fresh Cilantro',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf6a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Baby Corn',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf70',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Garlic Ginger Shrimp',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf78',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Snow Peas',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf74',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Lo Mein Noodles',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf7a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Bean Sprouts',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf6c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Five Spice Sweet Potatoes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf76',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Fresh Scallions',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf72',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Water Chestnuts',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d11980740940ff6bf6e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pickled Red Onions',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf80',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Zucchini',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf82',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mushroom Barley Soup',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf7e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Brown Rice',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bf7c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Red Onions',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bf84',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sweet Corn',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bf86',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mediterranean Quinoa Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Deli Specials',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf88',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Italian Meatball Sandwich',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bf92',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Taco Beef',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bf90',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Field Greens',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bf8e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Black Bean & Corn Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf8a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Homemade Alfredo Sauce',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf8c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vanilla Frozen Yogurt',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf98',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chopped Kale',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood - Salad Bar',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf9c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Crumbled Sausage',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf94',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Tomato Chickpea Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood - Creation Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf9a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pumpkin Seeds',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfa0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cinnamon Toast Crunch Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf96',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Herb Roasted Turkey',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood - Salad Bar',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bf9e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Banana Oat Pancakes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d11980740940ff6bf3e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Signature Burger',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfa4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Grilled Seasoned Chicken Breast',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfa8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Warm Mixed Berry Compote',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfa6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Romaine Lettuce',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfac',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sauteed Mushrooms & Onions',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfaa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Ruby Wild Grain Blend',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfae',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shrimp Ceviche',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfb0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Uproot Oatmilk',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfb4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cauliflower Florets',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfb2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Salted Caramel Coffee Creamer',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfb6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Rice Krispies',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfb8',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Gardenburger Black Bean Patty',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfc0',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Blue Cheese Dressing',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bfbc',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Signature Burger',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfc2',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Chocolate Milk',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bfbe',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chipotle Mayonnaise',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfba',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Chopped Walnuts',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfc4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vegetable Egg Rolls',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill - Continued',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bfc6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vegetarian Spring Roll',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'International Grill - Continued',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:37.000Z',
+  _id: '66086d12980740940ff6bfc8',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Nonfat Strawberry Greek Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfca',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Nonfat Vanilla Greek Yogurt',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfcc',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Baked Pita Chips',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfce',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Dill Pickle Slices',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfd2',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Charcuterie Cup',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfd0',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Turkey Breast',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfd6',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Provolone Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfd4',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Fresh Cracked Scrambled Egg',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Build Your Own Omelet',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfd8',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Summer Fruit Salad',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfda',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cavatappi',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfe2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Gluten Free Penne Pasta',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfe4',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Shredded Carrots',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bfe8',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Bacon',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bfe6',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Froot Loops Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfde',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Skim Milk',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfe0',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Honey',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6bfdc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Raisin Bran Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfea',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Frozen Yogurt',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfec',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Parmesan Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfee',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Harissa Beef Sirloin',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bff0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Turkey Burger Patty',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bff4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cumin Roasted Cauliflower',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bff2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Gardenburger Black Bean Patty',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bff6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'American Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bff8',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Roast Zucchini & Squash for Salad bar',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bffa',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Broccoli Florets',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bffc',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Shredded Parmesan Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c000',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Honey Mustard Dressing',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6bffe',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sweet Corn',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c002',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Green Peas',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c004',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Shredded Parmesan Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c008',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Mushrooms',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c006',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Blue Cheese Crumbles',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c00a',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cottage Cheese',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c00c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Garbanzo Beans',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c00e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Diced Ham',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c012',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Granola',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c01c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Tractor Beverage Mandarin Cardamom',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c020',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Red & Green Grapes',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c01a',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Pepperoncini',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c032',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Tractor Beverage Peach',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c022',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Roast Zucchini & Squash for Salad bar',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c02e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Field Greens',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c014',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Honey Mustard Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c026',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Caesar Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c028',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Tractor Beverage Unsweet Tea',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c01e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Romaine Lettuce',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c016',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Chopped Hard-Cooked Egg',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d11980740940ff6bf66',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Broccoli Florets',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c02c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Salami',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c010',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Pineapple',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c018',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Roasted Brussels Sprouts',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c030',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Tractor Beverage Berry Patch',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c024',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Kalamata Olives',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c034',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Cucumber',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c036',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Diced Beets',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c038',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Greek Orzo Pasta',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c03c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Steamed Diced Red Potatoes',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c03a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sweet Corn',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Pastabilities',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c03e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Feta Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c042',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Summer Fruit Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c040',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Flour Tortilla',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c044',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Crunchy Taco Shell',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c046',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Fried Chicken and Waffles',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c048',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Parmesan Roasted Cauliflower',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c04a',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Raisin Bran Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c04e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cheerios Cereal',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c050',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Ham',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c054',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Lamb Meatloaf',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c04c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Pickled Cauliflower',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c052',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Maple & Brown Sugar Oatmeal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6bfa2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Chips',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c058',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Blackberries',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c05a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sausage Gravy',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c05c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Fried Potatoes',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c05e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Seasoned Scrambled Eggs',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c060',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sour Cream',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c062',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Romaine',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c064',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Salsa Roja',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c066',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Taco Beef',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c06e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Pico de Gallo',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c068',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Black Olives',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c06c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Guacamole',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c06a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Jalapeno Peppers',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c070',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Tomatoes',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c072',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Feta Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c078',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Mixed Bell Peppers',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c074',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Baby Spinach',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c076',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Ranch Dressing',
+  date: '2024-03-30T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:38.000Z',
+  _id: '66086d12980740940ff6c02a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Peachy Keen Smoothie',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c086',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Endless Summer Smoothie',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c084',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Orange Cream Dream Smoothie',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c082',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Bananas',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c07c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Apples',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c080',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Oranges',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c07e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Strawberry Banana Smoothie',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c088',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Spring Break Smoothie',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c08a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mixed Berry Mojo Smoothie',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c08c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honey',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c096',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Dried Cranberries',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c090',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chia Seeds',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c092',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Flax Seed',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c094',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Housemade Cinnamon-Honey Granola',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c098',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Diced Mango',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c08e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Seedless Raisins',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c09a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Red & Green Grapes',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c09e',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pineapple',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0a0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Red Grapefruit',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c09c',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Strawberries',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0a2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Overnight Chia Oats',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Brunch (9am-11am)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0a4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Plain Nonfat Greek Yogurt',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0aa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Nonfat Vanilla Greek Yogurt',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0a8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Old Fashioned Oatmeal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Freshly Made Hot Bowl Of...',
+  time: 'Late Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0ac',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Nonfat Strawberry Greek Yogurt',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0a6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Vanilla Soft Serve Ice Cream',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0ae',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chocolate Milk',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0b0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: '2% Milk',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0b2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chopped Iceberg Lettuce',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0b4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mayonnaise',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0ba',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Hummus',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0bc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honeydew Melon',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0b6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cantaloupe',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0b8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Avocado',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0be',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Banana Peppers',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0c0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Cucumber',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0c4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Bell Peppers',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0c2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'French Fried Onions',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0d0',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Yellow Bell Peppers',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0cc',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Field Greens',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Greens & Grains',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0d2',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Spinach Frittata',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0d6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Avocado Kale Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: "Today's Pasta Specials",
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0ca',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Honey-Mustard Potato Salad',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Deli Specials',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0c8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Seasoned White Rice',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0d4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Sliced Provolone Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0c6',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Chopped Hard-Cooked Egg',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0ce',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Blue Cheese Crumbles',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0d8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Virginia Ham',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0da',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Brown Rice',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0de',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Whipped Topping',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0f6',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Tomatoes',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0f2',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Refried Beans',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0fc',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Plain Nonfat Greek Yogurt',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0ea',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Flour Tortilla',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0fe',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Crunchy Taco Shell',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c100',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Honey',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0e8',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Roasted Yellow Squash',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Allgood',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0e4',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Chocolate Chips',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0fa',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Lemon Garlic Green Beans',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0e2',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Pork Dumplings',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'International Grill - Continued',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0dc',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Signature Burger',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Black & Gold Grill',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0f4',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Mushroom Barley Soup',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Vegan Station',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c0e0',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Strawberries',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Creation Station',
+  time: 'Brunch (11am-2pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0f8',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Italian Beef Sandwich',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c102',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cherrywood Ham',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0f0',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cheddar Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0ee',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Granola',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Chobani Yogurt And Fruit',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0e6',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Sliced Provolone Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Marketplace Deli',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c0ec',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Mushrooms with Thyme',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c104',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cheese Lasagna Rollups',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c108',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Rosemary & Honey Roasted Carrots',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Southern Kitchen',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c106',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Tractor Beverage Unsweet Tea',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c112',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cinnamon Toast Crunch Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c10e',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Cheerios Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c10c',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Apple Jacks Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c110',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Rice Chex Cereal',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Self Serve Options',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c10a',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Balsamic Vinaigrette',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c116',
+  __v: 0
+}
+Item added: {
+  location: 'North Pit',
+  item: 'Caesar Dressing',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Produce Market / Dressings',
+  time: 'Dinner (4:30pm-9pm)',
+  dateAdded: '2024-03-30T19:50:40.000Z',
+  _id: '66086d12980740940ff6c114',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Shredded Cheddar Cheese',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Performance Dining - Proteins & More Greens',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c07a',
+  __v: 0
+}
+Item added: {
+  location: 'Pit',
+  item: 'Cage Free Egg Whites',
+  date: '2024-03-31T00:00:00.000Z',
+  station: 'Create Your Own Omelette',
+  time: 'Dinner (4:30pm-8:30pm)',
+  dateAdded: '2024-03-30T19:50:39.000Z',
+  _id: '66086d12980740940ff6c056',
+  __v: 0
+}
