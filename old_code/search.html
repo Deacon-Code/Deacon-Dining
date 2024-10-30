@@ -1,124 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Search Bar</title>
     <style>
-        body {
-            font-family: serif, Georgia;
-            margin: 20px;
-            color: rgb(182, 137, 23);
-        }
+      body {
+        font-family: serif, Georgia;
+        margin: 20px;
+        color: rgb(182, 137, 23);
+      }
 
-        #searchContainer {
-            margin: 0 auto;
-        }
+      #searchContainer {
+        margin: 0 auto;
+      }
 
-        #searchInput {
-            width: 100%;
-            padding: 10px;
-            font-size: 16px;
-            border: 2px solid rgb(113, 85, 14);
-            border-radius: 5px;
-            box-sizing: border-box;
-        }
+      #searchInput {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        border: 2px solid rgb(113, 85, 14);
+        border-radius: 5px;
+        box-sizing: border-box;
+      }
 
-        #results {
-            list-style-type: none;
-            padding: 0;
-            margin-top: 10px;
-        }
+      #results {
+        list-style-type: none;
+        padding: 0;
+        margin-top: 10px;
+      }
 
-        #results li {
-            padding: 10px;
-            border: 4px double rgb(113, 85, 14);
-            border-radius: 10px;
-            border-radius: 10px;
-            margin-bottom: 10px;
-        }
+      #results li {
+        padding: 10px;
+        border: 4px double rgb(113, 85, 14);
+        border-radius: 10px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
 
-        #results h2 {
-            margin: 0;
-            font-size: 20px;
-        }
+      #results h2 {
+        margin: 0;
+        font-size: 20px;
+      }
 
-        #results p {
-            margin: 5px 0;
-            font-size: 16px;
-            color: black;
-        }
-        ::placeholder{
-            color: black;
-            font-family: serif, Georgia;
-        }
+      #results p {
+        margin: 5px 0;
+        font-size: 16px;
+        color: black;
+      }
+      ::placeholder {
+        color: black;
+        font-family: serif, Georgia;
+      }
     </style>
-</head>
+  </head>
 
-<body>
-
+  <body>
     <div id="searchContainer">
-        <input type="text" id="searchInput" placeholder="Search...">
-        <ul id="results"></ul>
+      <input type="text" id="searchInput" placeholder="Search . . ." />
+      <ul id="results"></ul>
     </div>
 
     <script>
-        // Function to fetch data from text file
-        function fetchData() {
-            fetch('all_gather.txt')
-                .then(response => response.text())
-                .then(data => {
-                    processTextData(data);
-                })
-                .catch(error => console.error('Error fetching data:', error));
+      // Function to fetch data from text file
+      function fetchData() {
+        fetch("all_gather.txt")
+          .then((response) => response.text())
+          .then((data) => {
+            processTextData(data);
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+      }
+
+      // Function to process text data
+      function processTextData(data) {
+        var lines = data.split("\n");
+        var results = document.getElementById("results");
+        results.innerHTML = "";
+
+        // Function to format date as m-dd
+        function formatDate(dateString) {
+          var parts = dateString.split("-");
+          if (parts.length === 2) {
+            var month = parseInt(parts[0]);
+            var day = parseInt(parts[1]);
+            return month + "-" + day.toString().padStart(2, "0");
+          }
+          return dateString; // Return as is if not in mm-dd format
         }
 
-        // Function to process text data
-        function processTextData(data) {
-            var lines = data.split('\n');
-            var results = document.getElementById("results");
-            results.innerHTML = '';
+        // Function to perform search
+        function search() {
+          var searchTerm = document
+            .getElementById("searchInput")
+            .value.trim()
+            .toLowerCase();
+          results.innerHTML = "";
 
-            // Function to format date as m-dd
-            function formatDate(dateString) {
-                var parts = dateString.split('-');
-                if (parts.length === 2) {
-                    var month = parseInt(parts[0]);
-                    var day = parseInt(parts[1]);
-                    return month + '-' + day.toString().padStart(2, '0');
-                }
-                return dateString; // Return as is if not in mm-dd format
-            }
-
-            // Function to perform search
-            function search() {
-                var searchTerm = document.getElementById("searchInput").value.trim().toLowerCase();
-                results.innerHTML = '';
-
-                lines.forEach(function (line) {
-                    var values = line.split(', ');
-                    var item = values[3];
-                    if (item.toLowerCase().includes(searchTerm)) {
-                        var li = document.createElement("li");
-                        li.innerHTML = `
+          lines.forEach(function (line) {
+            var values = line.split(", ");
+            var item = values[3];
+            if (item.toLowerCase().includes(searchTerm)) {
+              var li = document.createElement("li");
+              li.innerHTML = `
                             <h2>${values[3]}</h2>
                             <p>${values[2]} @ ${values[1]}</p>
                             <p>${formatDate(values[0])} for ${values[4]}</p>
                         `;
-                        results.appendChild(li);
-                    }
-                });
+              results.appendChild(li);
             }
-
-            // Event listener for input changes
-            document.getElementById("searchInput").addEventListener("input", search);
+          });
         }
 
-        // Fetch data when the page loads
-        fetchData();
+        // Event listener for input changes
+        document
+          .getElementById("searchInput")
+          .addEventListener("input", search);
+      }
+
+      // Fetch data when the page loads
+      fetchData();
     </script>
-
-</body>
-
+  </body>
 </html>
