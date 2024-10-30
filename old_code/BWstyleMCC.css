@@ -7,7 +7,8 @@
   font-size: 15px;
 }
 
-body {background-color: lightyellow;
+body {
+  background-color: lightyellow;
 }
 
 .row {
@@ -26,37 +27,36 @@ body {background-color: lightyellow;
   width: 100%; /*Mobile First!*/
 }
 
-
 /* SIDENAV */
 #sideNav {
   display: none;
-    position: fixed;
-    left: 0;
-    top:134px;
-    bottom: 0;
-    width: 250px;
-    background-color: goldenrod;
-    color: snow;
-  }
-  #sideNav h2{
-    font-size: 20px;
-    font-weight: 400;
-    padding: 8px 16px;
-    margin: 10px 0;
-  }
-  
-  #sideNav a{
-    display: block;
-    padding: 8px 16px;
-    font-size: 18px;
-    text-decoration: none;
-    color: black;
-  }
-  
-  #sideNav a:hover{
-    background-color: gold;
-    color: black;
-  }
+  position: absolute;
+  right: 0;
+  top: 134px;
+  bottom: 0;
+  width: 250px;
+  background-color: goldenrod;
+  color: snow;
+}
+#sideNav h2 {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 8px 16px;
+  margin: 10px 0;
+}
+
+#sideNav a {
+  display: block;
+  padding: 8px 16px;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
+
+#sideNav a:hover {
+  background-color: gold;
+  color: black;
+}
 
 /* TOPNAV */
 #topNav {
@@ -113,7 +113,7 @@ nav.scrollmenu div:hover {
   display: none;
   /*Makes it not display, which we will fix soon*/
   text-decoration: none;
-/* no underlined */
+  /* no underlined */
   color: black;
   padding: 8px 16px;
   font-size: 18px;
@@ -130,34 +130,33 @@ nav.scrollmenu div:hover {
   background-color: white;
 }
 
-#topNav > a:last-child{
-  display:block;
+#topNav > a:last-child {
+  display: block;
   float: right;
   background-color: darkgoldenrod;
 }
 
-i{
+i {
   font-size: 18px;
 }
 /*Main Section*/
-main section article{
+main section article {
   padding: 64px 16px;
 }
-main section article:nth-child(2){
+main section article:nth-child(2) {
   padding: 0 16px;
 }
-article h1{
+article h1 {
   font-weight: 400;
   margin: 10px 0;
   font-size: 36px;
   color: goldenrod;
-  
 }
-article p{
+article p {
   margin: 1em 0;
-  border:  ridge goldenrod;
+  border: ridge goldenrod;
 }
-.favs{
+.favs {
   padding: 32px 24px;
   border: 1px solid darkgoldenrod;
   border-radius: 2%;
@@ -166,53 +165,53 @@ article p{
 }
 
 /*PageNav*/
-#pageNav{
+#pageNav {
   padding: 32px 0;
   text-align: center;
 }
-#pageNav a{
+#pageNav a {
   display: inline-block;
   padding: 8px 16px;
   text-decoration: none;
-  color:black;
+  color: black;
   text-align: center;
   vertical-align: center;
 }
-#pageNav a:hover{
+#pageNav a:hover {
   background-color: black;
   color: gold;
 }
-#pageNav a:first-child{
+#pageNav a:first-child {
   background-color: gold;
   color: black;
 }
-#pageNav a:first-child:hover{
+#pageNav a:first-child:hover {
   background-color: white;
   color: darkblue;
 }
 
 /*Top Footer*/
-#topFooter{
-  color:black;
+#topFooter {
+  color: black;
   background-color: goldenrod;
   padding: 32px 0px;
 }
-#topFooter h4{
+#topFooter h4 {
   font-weight: 400;
   margin: 10px 1.33em;
   font-size: 20px;
 }
 
 /*Bottom Footer*/
-#botFooter{
+#botFooter {
   background-color: black;
   color: gold;
   padding: 0 16px;
 }
-#botFooter p{
-  padding:16px 0;
+#botFooter p {
+  padding: 16px 0;
 }
-#botFooter a{
+#botFooter a {
   color: white;
 }
 .topnav a:hover {
@@ -221,14 +220,14 @@ article p{
 }
 
 .topnav a.active {
-  background-color: #2196F3;
+  background-color: #2196f3;
   color: white;
 }
 .topnav .search-container {
   float: right;
 }
 
-.topnav input[type=text] {
+.topnav input[type="text"] {
   padding: 6px;
   margin-top: 8px;
   font-size: 17px;
@@ -249,4 +248,3 @@ article p{
 .topnav .search-container button:hover {
   background: #ccc;
 }
-
