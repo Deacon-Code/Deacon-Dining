@@ -14,6 +14,12 @@ def get_text_from_pdf(pdf_url):
             text += page.extract_text()
     return text
 
-pdf_url = "https://dining.wfu.edu/wp-content/uploads/2024/03/mag-room-mar4-7.pdf"
+Date = date.today()
+begin_month = Date.strftime("%m")
+begin_day = Date.strftime("%d")
+Date = Date + timedelta(days=4)
+end_month = Date.strftime("%m")
+end_day = Date.strftime("%d")
+pdf_url = "https://dining.wfu.edu/wp-content/uploads/2017/07/{begin_month}{begin_day}-{end_month}{end_day}-Mag-Room-Menu.pdf"
 extracted_text = get_text_from_pdf(pdf_url)
 print(extracted_text)
