@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: lightyellow;
+  background-color: white; /* Updated to white */
 }
 
 .row {
@@ -34,10 +34,10 @@ body {
   display: none;
   position: absolute;
   right: 0;
-  top: 134px;
+  top: 196px;
   bottom: 0;
   width: 250px;
-  background-color: goldenrod;
+  background-color: #9e7e38; /* Updated to new gold color */
   color: snow;
 }
 #sideNav h2 {
@@ -56,33 +56,36 @@ body {
 }
 
 #sideNav a:hover {
-  background-color: gold;
+  background-color: #9e7e38; /* Updated to new gold color */
   color: black;
 }
 
 /* TOPNAV */
 #topNav {
-  background-color: gold;
+  background-color: #9e7e38; /* Updated to white */
   position: fixed;
   top: 0;
+  border-bottom: white 10px solid;
 }
 #topNav2 {
-  background-color: goldenrod;
+  background-color: black; /* Updated to gold */
   position: fixed;
-  top: 40px;
+  top: 43px;
+  padding: 10px;
 }
 #topNav3 {
   padding: 5px;
-  background-color: #fde672;
+  background-color: white;
+  color: black;
   position: relative;
-  top: 66px;
+  top: 98px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
   overflow-x: auto;
   white-space: nowrap;
-  left: 0;
-  right: 0;
+  left: 0px;
+  border-bottom: #9e7e38 30px solid;
 }
 
 #topNav3 div {
@@ -113,29 +116,26 @@ nav.scrollmenu div:hover {
 
 #topNav a {
   display: none;
-  /*Makes it not display, which we will fix soon*/
   text-decoration: none;
-  /* no underlined */
   color: black;
   padding: 8px 16px;
   font-size: 18px;
 }
 
 #topNav > #logo {
-  /*Arrow shows importnace, so look at top nav then choose logo*/
   display: inline-block;
-  background-color: gold;
+  background-color: #9e7e38; /* Updated to white */
 }
 
 #topNav > #logo:hover {
-  color: goldenrod;
+  color: #9e7e38; /* Updated to gold */
   background-color: white;
 }
 
 #topNav > a:last-child {
   display: block;
   float: right;
-  background-color: darkgoldenrod;
+  background-color: #9e7e38; /* Updated to gold */
 }
 
 i {
@@ -143,6 +143,7 @@ i {
 }
 /*Main Section*/
 main section article {
+  border-top: white 30px solid;
   padding: 64px 16px;
 }
 main section article:nth-child(2) {
@@ -152,15 +153,15 @@ article h1 {
   font-weight: 400;
   margin: 10px 0;
   font-size: 36px;
-  color: goldenrod;
+  color: #9e7e38; /* Updated to gold */
 }
 article p {
   margin: 1em 0;
-  border: ridge goldenrod;
+  border: ridge #9e7e38; /* Updated to gold */
 }
 .favs {
   padding: 32px 24px;
-  border: 1px solid darkgoldenrod;
+  border: 1px solid #9e7e38; /* Updated to gold */
   border-radius: 2%;
   text-align: center;
   margin: 1em 0;
@@ -181,21 +182,21 @@ article p {
 }
 #pageNav a:hover {
   background-color: black;
-  color: gold;
+  color: #9e7e38; /* Updated to gold */
 }
 #pageNav a:first-child {
-  background-color: gold;
+  background-color: #9e7e38; /* Updated to gold */
   color: black;
 }
 #pageNav a:first-child:hover {
   background-color: white;
-  color: darkblue;
+  color: black;
 }
 
 /*Top Footer*/
 #topFooter {
   color: black;
-  background-color: goldenrod;
+  background-color: #9e7e38; /* Updated to gold */
   padding: 32px 0px;
 }
 #topFooter h4 {
@@ -207,7 +208,7 @@ article p {
 /*Bottom Footer*/
 #botFooter {
   background-color: black;
-  color: gold;
+  color: #9e7e38; /* Updated to gold */
   padding: 0 16px;
 }
 #botFooter p {

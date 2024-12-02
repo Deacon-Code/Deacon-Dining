@@ -43,19 +43,15 @@
     display: inline-block;
   }
 
-  /* #topNav a:last-child {
-    display: none;
-  } */
-
   #sideNav {
     display: none;
     position: absolute;
     float: right;
     right: 0;
-    top: 134px;
+    top: 196px;
     bottom: 0;
     width: 250px;
-    background-color: goldenrod;
+    background-color: #9e7e38; /* Updated to gold */
     color: snow;
   }
   #sideNav h2 {
@@ -74,33 +70,23 @@
   }
 
   #sideNav a:hover {
-    background-color: gold;
+    background-color: #9e7e38; /* Updated to gold */
     color: black;
   }
 
   main > section {
+    border-top: white 30px solid;
     position: fixed;
     left: 0px;
     height: 100%;
     overflow-y: scroll;
     z-index: -1;
     padding: 0;
+    background-color: white; /* Updated to white */
   }
   main section article {
     padding-left: 0;
     padding-right: 0;
-  }
-  #topNav3 {
-    padding: 5px;
-    background-color: #fde672;
-    position: relative;
-    top: 66px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    overflow-x: auto;
-    white-space: nowrap;
-    left: 0px;
   }
   #topNav3 div {
     text-align: center;
