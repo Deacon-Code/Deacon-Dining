@@ -34,7 +34,7 @@ body {
   display: none;
   position: absolute;
   right: 0;
-  top: 134px;
+  top: 196px;
   bottom: 0;
   width: 250px;
   background-color: #9e7e38; /* Updated to new gold color */
@@ -62,28 +62,30 @@ body {
 
 /* TOPNAV */
 #topNav {
-  background-color: white; /* Updated to white */
+  background-color: #9e7e38; /* Updated to white */
   position: fixed;
   top: 0;
+  border-bottom: white 10px solid;
 }
 #topNav2 {
   background-color: black; /* Updated to gold */
   position: fixed;
-  top: 40px;
+  top: 43px;
+  padding: 10px;
 }
 #topNav3 {
   padding: 5px;
-  background-color: #9e7e38;
-  color: white;
+  background-color: white;
+  color: black;
   position: relative;
-  top: 66px;
+  top: 98px;
   display: flex;
   align-items: center;
   justify-content: flex-start;
   overflow-x: auto;
   white-space: nowrap;
-  left: 0;
-  right: 0;
+  left: 0px;
+  border-bottom: #9e7e38 30px solid;
 }
 
 #topNav3 div {
@@ -122,7 +124,7 @@ nav.scrollmenu div:hover {
 
 #topNav > #logo {
   display: inline-block;
-  background-color: white; /* Updated to white */
+  background-color: #9e7e38; /* Updated to white */
 }
 
 #topNav > #logo:hover {
@@ -141,6 +143,7 @@ i {
 }
 /*Main Section*/
 main section article {
+  border-top: white 30px solid;
   padding: 64px 16px;
 }
 main section article:nth-child(2) {

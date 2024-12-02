@@ -49,20 +49,6 @@
     background-color: #9e7e38; /* Updated to gold */
     color: black;
   }
-  #topNav3 {
-    padding: 5px;
-    background-color: #9e7e38;
-    color: white;
-    position: relative;
-    top: 66px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    overflow-x: auto;
-    white-space: nowrap;
-    left: 0;
-    right: 0;
-  }
 
   #topNav3 div {
     text-align: center;
