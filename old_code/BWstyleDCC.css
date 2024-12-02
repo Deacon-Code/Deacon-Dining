@@ -43,10 +43,6 @@
     display: inline-block;
   }
 
-  /* #topNav a:last-child {
-    display: none;
-  } */
-
   #sideNav {
     display: none;
     position: absolute;
@@ -55,7 +51,7 @@
     top: 134px;
     bottom: 0;
     width: 250px;
-    background-color: goldenrod;
+    background-color: #9e7e38; /* Updated to gold */
     color: snow;
   }
   #sideNav h2 {
@@ -74,7 +70,7 @@
   }
 
   #sideNav a:hover {
-    background-color: gold;
+    background-color: #9e7e38; /* Updated to gold */
     color: black;
   }
 
@@ -85,6 +81,7 @@
     overflow-y: scroll;
     z-index: -1;
     padding: 0;
+    background-color: white; /* Updated to white */
   }
   main section article {
     padding-left: 0;
@@ -92,7 +89,8 @@
   }
   #topNav3 {
     padding: 5px;
-    background-color: #fde672;
+    background-color: #9e7e38;
+    color: white;
     position: relative;
     top: 66px;
     display: flex;

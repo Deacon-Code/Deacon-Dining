@@ -46,12 +46,13 @@
     display: none;
   }
   #topNav a:hover {
-    background-color: gold;
+    background-color: #9e7e38; /* Updated to gold */
     color: black;
   }
   #topNav3 {
     padding: 5px;
-    background-color: #fde672;
+    background-color: #9e7e38;
+    color: white;
     position: relative;
     top: 66px;
     display: flex;
